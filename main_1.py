@@ -6,9 +6,9 @@
 # nome = input ("seu nome: ")
 # print (f"seje bem vindo:  {nome}")
 # -------------
-# numero_1: float(input("Digite 1: "))
-# numero_2: float(input("Digite 2: "))
-# soma: float(numero_1) + float(numero_2)
+# numero_1 = float(input("Digite 1: "))
+# numero_2 = float(input("Digite 2: "))
+# soma = float(numero_1) + float(numero_2)
 # print(f"o resultado é: {soma}")
 #---------------------
 # x="0,1111"
