@@ -21,11 +21,12 @@ nome = input("seu mome: ")
 salario = float(input("dig. salario: "))
 bonus = float(input("dig. bonus: "))
 bonus_total = 1000 + salario * bonus
-print(f"salario total: {bonus_total}")
+print(f"Salário de {nome} o total: {bonus_total}")
 #
 print("Seja bem-vindo!")
 nome = input("Seu nome: ")
 salario = float(input("Digite o salário: ").replace(',', '.'))
 bonus = float(input("Digite o bônus: ").replace(',', '.'))
 bonus_total = 1000 + salario * bonus
-print(f"Salário total: {bonus_total}")
+print(f"Salário de {nome} o total: {bonus_total}")
+#----------------------
